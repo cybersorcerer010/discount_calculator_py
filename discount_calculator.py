@@ -15,7 +15,7 @@ Error Handling:
 - Validates that inputs are numeric.
 - Displays an error message if invalid inputs are provided.
 
-Author: Cyber Sorcerer
+Author: Bill Glinton
 """
 
 def calculate_discount(price, discount_percent):
